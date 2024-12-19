@@ -8,9 +8,6 @@
 -📫 How to reach me: Feel free to connect with me via LinkedIn or email me at mr.amannobody@gmail.com!
 
 -😄 Pronouns: He/Him!
-[Indian Boy Anime with Galactic Backdrop](https://github.com/user-attachments/assets/2e10edfd-4bc6-4504-815a-d45fd3aaeb85)
-
-
 -⚡ Fun fact: I used to be a gamer dreaming of building games, but now I’m channeling that passion into creating amazing websites and apps!
 
 
