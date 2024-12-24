@@ -5,7 +5,7 @@
 
 -💞️ I’m looking to collaborate on innovative projects related to front-end and mobile app development, especially those involving React, React Native, or cutting-edge web technologies.
 
--📫 How to reach me: Feel free to connect with me via LinkedIn or email me at mr.amannobody@gmail.com!
+-📫 How to reach me: Feel free to connect with me via LinkedIn or email me at ******@gmail.com!
 
 -😄 Pronouns: He/Him!
 -⚡ Fun fact: I used to be a gamer dreaming of building games, but now I’m channeling that passion into creating amazing websites and apps!
