@@ -1,14 +1,11 @@
--👋 Hi, I’m Aman
--👀 I’m interested in Web and App Development, especially creating seamless user experiences and solving real-world problems through technology.
+🔥 Code is life, and I’m living it. I’m Aman — a web and app dev addict, crafting sleek user experiences and solving real-world puzzles with tech.
 
--🌱 I’m currently learning React Native to expand my skills in mobile app development.
+💻 Currently hacking my way through React Native to bring apps to life. Always down to team up on front-end or mobile projects that push boundaries.
 
--💞️ I’m looking to collaborate on innovative projects related to front-end and mobile app development, especially those involving React, React Native, or cutting-edge web technologies.
+📬 Hit me up: LinkedIn or ******@gmail.com.
+⚡ From gaming dreams to coding obsessions — now I build the stuff I once played.
 
--📫 How to reach me: Feel free to connect with me via LinkedIn or email me at ******@gmail.com!
-
--😄 Pronouns: He/Him!
--⚡ Fun fact: I used to be a gamer dreaming of building games, but now I’m channeling that passion into creating amazing websites and apps!
+Code, coffee, repeat. Let’s create something legendary. 🚀
 
 
 <!---
