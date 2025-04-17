@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="[assets/tired%20now.gif](https://i.pinimg.com/originals/d4/f0/8b/d4f08b4458e8da0e6c5b4499d4b65af8.gif)" alt="MasterHead">
+</p>
 <br clear="both">
 
 <h5 align="center">Yo 👾 I’m Aman<br>I build sleek websites and badass apps-no templates, just pure fire.<br>I’m not a vibe coder-I know why the code works, and exactly why it breaks.<br>Pixels, performance, and precision-every line is intentional.<br>Wanna see what that looks like? Check my Portfolio : https://t.co/vlbPEs5sT2</h5>
