@@ -87,7 +87,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
 </div>
 
- <!-- <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" /> -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/07amansaini8684/07amansaini8684/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/07amansaini8684/07amansaini8684/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/07amansaini8684/07amansaini8684/output/github-snake.svg" />
+</picture>
 ---
 
  
