@@ -21,7 +21,7 @@
 </div>
 
   <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=07amansaini8684&show_icons=true&locale=en&layout=compact" alt="07amansaini8684" /></p>
-<div>💻 Tech Stack: </div>
+<div>💻 Tech Stack:: </div>
 <div height="10></div>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
