@@ -5,9 +5,10 @@
 <p align="center">
 <p align="center">
 <em>
-  Yo 👾 I’m <b>Aman</b><br>
-  I build sleek websites and badass apps — no templates, just raw original. I’m not a vibe coder — I know why the code works, and exactly why it breaks. Pixels, performance, and precision — every line is intentional.
-  <a href="https://t.co/vlbPEs5sT2" target="_blank" style="text-decoration: underline;">Portfolio</a>.
+Aman 🧩
+I write bugs — then turn them into features.
+Building weirdly good websites and apps that somehow just work.
+<a href="https://t.co/vlbPEs5sT2" target="_blank" style="text-decoration: underline;">See the chaos</a>
 </em>
 </p>
 
